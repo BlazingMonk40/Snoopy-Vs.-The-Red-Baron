@@ -1,12 +1,16 @@
 Generation: 0 
- Avg Fitness = 152.25 
+ Avg Fitness = 67.25 
  Shots on Target/Shots Fired = 0/0 
- Alive: 9/20
+ Alive: 2/20
 Generation: 1 
- Avg Fitness = 115 
- Shots on Target/Shots Fired = 0/64 
- Alive: 9/20
+ Avg Fitness = 63.75 
+ Shots on Target/Shots Fired = 0/38 
+ Alive: 6/20
 Generation: 2 
- Avg Fitness = 130 
+ Avg Fitness = 91.5 
  Shots on Target/Shots Fired = 0/0 
+ Alive: 5/20
+Generation: 3 
+ Avg Fitness = 335 
+ Shots on Target/Shots Fired = 0/37 
  Alive: 9/20
