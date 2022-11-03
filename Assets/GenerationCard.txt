@@ -1,16 +1,1780 @@
 Generation: 0 
- Avg Fitness = 67.25 
- Shots on Target/Shots Fired = 0/0 
- Alive: 2/20
+ Avg Fitness = 187.25 
+ Shots on Target/Shots Fired = 0/26 
+ Alive: 9/20
 Generation: 1 
- Avg Fitness = 63.75 
- Shots on Target/Shots Fired = 0/38 
- Alive: 6/20
+ Avg Fitness = 202.25 
+ Shots on Target/Shots Fired = 0/0 
+ Alive: 8/20
 Generation: 2 
- Avg Fitness = 91.5 
+ Avg Fitness = 126.5 
+ Shots on Target/Shots Fired = 0/0 
+ Alive: 8/20
+Generation: 3 
+ Avg Fitness = 122.75 
+ Shots on Target/Shots Fired = 0/4 
+ Alive: 8/20
+Generation: 4 
+ Avg Fitness = 279.25 
+ Shots on Target/Shots Fired = 0/32 
+ Alive: 9/20
+Generation: 5 
+ Avg Fitness = 341.5 
+ Shots on Target/Shots Fired = 0/0 
+ Alive: 13/20
+Generation: 6 
+ Avg Fitness = 111 
+ Shots on Target/Shots Fired = 0/19 
+ Alive: 8/20
+Generation: 7 
+ Avg Fitness = 162 
+ Shots on Target/Shots Fired = 0/0 
+ Alive: 9/20
+Generation: 8 
+ Avg Fitness = 511.75 
+ Shots on Target/Shots Fired = 0/109 
+ Alive: 10/20
+Generation: 9 
+ Avg Fitness = 171.25 
+ Shots on Target/Shots Fired = 0/18 
+ Alive: 7/20
+Generation: 10 
+ Avg Fitness = 183.5 
+ Shots on Target/Shots Fired = 0/0 
+ Alive: 8/20
+Generation: 11 
+ Avg Fitness = 205 
+ Shots on Target/Shots Fired = 0/18 
+ Alive: 11/20
+Generation: 12 
+ Avg Fitness = 104 
+ Shots on Target/Shots Fired = 0/0 
+ Alive: 6/20
+Generation: 13 
+ Avg Fitness = 298.75 
+ Shots on Target/Shots Fired = 0/67 
+ Alive: 8/20
+Generation: 14 
+ Avg Fitness = 133.25 
+ Shots on Target/Shots Fired = 0/0 
+ Alive: 7/20
+Generation: 15 
+ Avg Fitness = 173 
+ Shots on Target/Shots Fired = 0/25 
+ Alive: 9/20
+Generation: 16 
+ Avg Fitness = 80 
  Shots on Target/Shots Fired = 0/0 
  Alive: 5/20
-Generation: 3 
- Avg Fitness = 335 
- Shots on Target/Shots Fired = 0/37 
+Generation: 17 
+ Avg Fitness = 535.5 
+ Shots on Target/Shots Fired = 0/0 
+ Alive: 8/20
+Generation: 18 
+ Avg Fitness = 452.25 
+ Shots on Target/Shots Fired = 0/22 
  Alive: 9/20
+Generation: 19 
+ Avg Fitness = 322.75 
+ Shots on Target/Shots Fired = 0/12 
+ Alive: 11/20
+Generation: 20 
+ Avg Fitness = 186 
+ Shots on Target/Shots Fired = 0/0 
+ Alive: 9/20
+Generation: 21 
+ Avg Fitness = 250.75 
+ Shots on Target/Shots Fired = 0/0 
+ Alive: 13/20
+Generation: 22 
+ Avg Fitness = 56.5 
+ Shots on Target/Shots Fired = 0/27 
+ Alive: 6/20
+Generation: 23 
+ Avg Fitness = 899 
+ Shots on Target/Shots Fired = 0/24 
+ Alive: 9/20
+Generation: 24 
+ Avg Fitness = 113.5 
+ Shots on Target/Shots Fired = 0/2 
+ Alive: 10/20
+Generation: 25 
+ Avg Fitness = 266.75 
+ Shots on Target/Shots Fired = 0/18 
+ Alive: 7/20
+Generation: 26 
+ Avg Fitness = 518 
+ Shots on Target/Shots Fired = 0/12 
+ Alive: 12/20
+Generation: 27 
+ Avg Fitness = 292.25 
+ Shots on Target/Shots Fired = 0/0 
+ Alive: 8/20
+Generation: 28 
+ Avg Fitness = 104.5 
+ Shots on Target/Shots Fired = 0/20 
+ Alive: 6/20
+Generation: 29 
+ Avg Fitness = 352.5 
+ Shots on Target/Shots Fired = 0/35 
+ Alive: 8/20
+Generation: 30 
+ Avg Fitness = 136.75 
+ Shots on Target/Shots Fired = 0/9 
+ Alive: 11/20
+Generation: 31 
+ Avg Fitness = 386.75 
+ Shots on Target/Shots Fired = 0/25 
+ Alive: 8/20
+Generation: 32 
+ Avg Fitness = 342 
+ Shots on Target/Shots Fired = 0/15 
+ Alive: 9/20
+Generation: 33 
+ Avg Fitness = 220.5 
+ Shots on Target/Shots Fired = 0/0 
+ Alive: 8/20
+Generation: 34 
+ Avg Fitness = 335.25 
+ Shots on Target/Shots Fired = 0/23 
+ Alive: 9/20
+Generation: 35 
+ Avg Fitness = 243 
+ Shots on Target/Shots Fired = 0/27 
+ Alive: 8/20
+Generation: 36 
+ Avg Fitness = 57.25 
+ Shots on Target/Shots Fired = 0/0 
+ Alive: 7/20
+Generation: 37 
+ Avg Fitness = 204.5 
+ Shots on Target/Shots Fired = 0/32 
+ Alive: 8/20
+Generation: 38 
+ Avg Fitness = -30 
+ Shots on Target/Shots Fired = 0/0 
+ Alive: 6/20
+Generation: 39 
+ Avg Fitness = 270 
+ Shots on Target/Shots Fired = 0/72 
+ Alive: 9/20
+Generation: 40 
+ Avg Fitness = 335 
+ Shots on Target/Shots Fired = 0/12 
+ Alive: 13/20
+Generation: 41 
+ Avg Fitness = -33 
+ Shots on Target/Shots Fired = 0/0 
+ Alive: 3/20
+Generation: 42 
+ Avg Fitness = 309.25 
+ Shots on Target/Shots Fired = 0/0 
+ Alive: 13/20
+Generation: 43 
+ Avg Fitness = 640.25 
+ Shots on Target/Shots Fired = 0/23 
+ Alive: 8/20
+Generation: 44 
+ Avg Fitness = 211 
+ Shots on Target/Shots Fired = 0/0 
+ Alive: 9/20
+Generation: 45 
+ Avg Fitness = 93.75 
+ Shots on Target/Shots Fired = 0/0 
+ Alive: 10/20
+Generation: 46 
+ Avg Fitness = 212.5 
+ Shots on Target/Shots Fired = 0/21 
+ Alive: 10/20
+Generation: 47 
+ Avg Fitness = 12.75 
+ Shots on Target/Shots Fired = 0/0 
+ Alive: 8/20
+Generation: 48 
+ Avg Fitness = 383.75 
+ Shots on Target/Shots Fired = 0/26 
+ Alive: 14/20
+Generation: 49 
+ Avg Fitness = 128.5 
+ Shots on Target/Shots Fired = 0/0 
+ Alive: 10/20
+Generation: 50 
+ Avg Fitness = 219.25 
+ Shots on Target/Shots Fired = 0/20 
+ Alive: 10/20
+Generation: 51 
+ Avg Fitness = 620.5 
+ Shots on Target/Shots Fired = 0/58 
+ Alive: 9/20
+Generation: 52 
+ Avg Fitness = -32.25 
+ Shots on Target/Shots Fired = 0/0 
+ Alive: 4/20
+Generation: 53 
+ Avg Fitness = 267 
+ Shots on Target/Shots Fired = 0/0 
+ Alive: 14/20
+Generation: 54 
+ Avg Fitness = 223.25 
+ Shots on Target/Shots Fired = 0/19 
+ Alive: 9/20
+Generation: 55 
+ Avg Fitness = 297 
+ Shots on Target/Shots Fired = 0/21 
+ Alive: 9/20
+Generation: 56 
+ Avg Fitness = 124.25 
+ Shots on Target/Shots Fired = 0/0 
+ Alive: 9/20
+Generation: 57 
+ Avg Fitness = 415.5 
+ Shots on Target/Shots Fired = 0/22 
+ Alive: 9/20
+Generation: 58 
+ Avg Fitness = 217.75 
+ Shots on Target/Shots Fired = 0/22 
+ Alive: 7/20
+Generation: 59 
+ Avg Fitness = 76 
+ Shots on Target/Shots Fired = 0/24 
+ Alive: 9/20
+Generation: 60 
+ Avg Fitness = 58 
+ Shots on Target/Shots Fired = 0/49 
+ Alive: 8/20
+Generation: 61 
+ Avg Fitness = -57.5 
+ Shots on Target/Shots Fired = 0/0 
+ Alive: 3/20
+Generation: 62 
+ Avg Fitness = 243 
+ Shots on Target/Shots Fired = 0/0 
+ Alive: 9/20
+Generation: 63 
+ Avg Fitness = 166.25 
+ Shots on Target/Shots Fired = 0/0 
+ Alive: 8/20
+Generation: 64 
+ Avg Fitness = 129.25 
+ Shots on Target/Shots Fired = 0/0 
+ Alive: 8/20
+Generation: 65 
+ Avg Fitness = 40.75 
+ Shots on Target/Shots Fired = 0/0 
+ Alive: 7/20
+Generation: 66 
+ Avg Fitness = 676 
+ Shots on Target/Shots Fired = 0/0 
+ Alive: 12/20
+Generation: 67 
+ Avg Fitness = 231.75 
+ Shots on Target/Shots Fired = 0/0 
+ Alive: 9/20
+Generation: 68 
+ Avg Fitness = 80 
+ Shots on Target/Shots Fired = 0/0 
+ Alive: 6/20
+Generation: 69 
+ Avg Fitness = -19.75 
+ Shots on Target/Shots Fired = 0/21 
+ Alive: 6/20
+Generation: 70 
+ Avg Fitness = 80.25 
+ Shots on Target/Shots Fired = 0/0 
+ Alive: 4/20
+Generation: 71 
+ Avg Fitness = 104.75 
+ Shots on Target/Shots Fired = 0/36 
+ Alive: 10/20
+Generation: 72 
+ Avg Fitness = 170.25 
+ Shots on Target/Shots Fired = 0/24 
+ Alive: 6/20
+Generation: 73 
+ Avg Fitness = 99.5 
+ Shots on Target/Shots Fired = 0/0 
+ Alive: 8/20
+Generation: 74 
+ Avg Fitness = -0.25 
+ Shots on Target/Shots Fired = 0/21 
+ Alive: 6/20
+Generation: 75 
+ Avg Fitness = 173.25 
+ Shots on Target/Shots Fired = 0/0 
+ Alive: 8/20
+Generation: 76 
+ Avg Fitness = 74.5 
+ Shots on Target/Shots Fired = 0/0 
+ Alive: 7/20
+Generation: 77 
+ Avg Fitness = 445 
+ Shots on Target/Shots Fired = 0/19 
+ Alive: 11/20
+Generation: 78 
+ Avg Fitness = 166.25 
+ Shots on Target/Shots Fired = 0/20 
+ Alive: 9/20
+Generation: 79 
+ Avg Fitness = 33.75 
+ Shots on Target/Shots Fired = 0/0 
+ Alive: 4/20
+Generation: 80 
+ Avg Fitness = 42.25 
+ Shots on Target/Shots Fired = 0/22 
+ Alive: 8/20
+Generation: 81 
+ Avg Fitness = 129.25 
+ Shots on Target/Shots Fired = 0/22 
+ Alive: 6/20
+Generation: 82 
+ Avg Fitness = 319.5 
+ Shots on Target/Shots Fired = 0/22 
+ Alive: 10/20
+Generation: 83 
+ Avg Fitness = 186.25 
+ Shots on Target/Shots Fired = 0/14 
+ Alive: 9/20
+Generation: 84 
+ Avg Fitness = 53.5 
+ Shots on Target/Shots Fired = 0/30 
+ Alive: 7/20
+Generation: 85 
+ Avg Fitness = 168 
+ Shots on Target/Shots Fired = 0/0 
+ Alive: 8/20
+Generation: 86 
+ Avg Fitness = 131 
+ Shots on Target/Shots Fired = 0/0 
+ Alive: 10/20
+Generation: 87 
+ Avg Fitness = 275 
+ Shots on Target/Shots Fired = 0/0 
+ Alive: 11/20
+Generation: 88 
+ Avg Fitness = 118.25 
+ Shots on Target/Shots Fired = 0/0 
+ Alive: 9/20
+Generation: 89 
+ Avg Fitness = 214.25 
+ Shots on Target/Shots Fired = 0/0 
+ Alive: 8/20
+Generation: 90 
+ Avg Fitness = 257.25 
+ Shots on Target/Shots Fired = 0/0 
+ Alive: 11/20
+Generation: 91 
+ Avg Fitness = 102.75 
+ Shots on Target/Shots Fired = 0/0 
+ Alive: 6/20
+Generation: 92 
+ Avg Fitness = -34.75 
+ Shots on Target/Shots Fired = 0/21 
+ Alive: 8/20
+Generation: 93 
+ Avg Fitness = 21 
+ Shots on Target/Shots Fired = 0/0 
+ Alive: 9/20
+Generation: 94 
+ Avg Fitness = 294.75 
+ Shots on Target/Shots Fired = 0/14 
+ Alive: 11/20
+Generation: 95 
+ Avg Fitness = -3.5 
+ Shots on Target/Shots Fired = 0/0 
+ Alive: 5/20
+Generation: 96 
+ Avg Fitness = 148.5 
+ Shots on Target/Shots Fired = 0/0 
+ Alive: 8/20
+Generation: 97 
+ Avg Fitness = 65.5 
+ Shots on Target/Shots Fired = 0/0 
+ Alive: 6/20
+Generation: 98 
+ Avg Fitness = 772.5 
+ Shots on Target/Shots Fired = 0/59 
+ Alive: 8/20
+Generation: 99 
+ Avg Fitness = 358 
+ Shots on Target/Shots Fired = 0/56 
+ Alive: 8/20
+Generation: 100 
+ Avg Fitness = 140.5 
+ Shots on Target/Shots Fired = 0/0 
+ Alive: 7/20
+Generation: 101 
+ Avg Fitness = 136.25 
+ Shots on Target/Shots Fired = 0/0 
+ Alive: 5/20
+Generation: 102 
+ Avg Fitness = 19.25 
+ Shots on Target/Shots Fired = 0/0 
+ Alive: 6/20
+Generation: 103 
+ Avg Fitness = 147.5 
+ Shots on Target/Shots Fired = 0/17 
+ Alive: 9/20
+Generation: 104 
+ Avg Fitness = 48.5 
+ Shots on Target/Shots Fired = 0/19 
+ Alive: 7/20
+Generation: 105 
+ Avg Fitness = 284.5 
+ Shots on Target/Shots Fired = 0/0 
+ Alive: 9/20
+Generation: 106 
+ Avg Fitness = 245.25 
+ Shots on Target/Shots Fired = 0/30 
+ Alive: 8/20
+Generation: 107 
+ Avg Fitness = 225.25 
+ Shots on Target/Shots Fired = 0/0 
+ Alive: 5/20
+Generation: 108 
+ Avg Fitness = 137.5 
+ Shots on Target/Shots Fired = 0/22 
+ Alive: 8/20
+Generation: 109 
+ Avg Fitness = 16.5 
+ Shots on Target/Shots Fired = 0/0 
+ Alive: 6/20
+Generation: 110 
+ Avg Fitness = 152.5 
+ Shots on Target/Shots Fired = 0/0 
+ Alive: 6/20
+Generation: 111 
+ Avg Fitness = 40.25 
+ Shots on Target/Shots Fired = 0/0 
+ Alive: 6/20
+Generation: 112 
+ Avg Fitness = 32.5 
+ Shots on Target/Shots Fired = 0/21 
+ Alive: 6/20
+Generation: 113 
+ Avg Fitness = 258 
+ Shots on Target/Shots Fired = 0/47 
+ Alive: 9/20
+Generation: 114 
+ Avg Fitness = 120 
+ Shots on Target/Shots Fired = 0/0 
+ Alive: 11/20
+Generation: 115 
+ Avg Fitness = 138 
+ Shots on Target/Shots Fired = 0/0 
+ Alive: 7/20
+Generation: 116 
+ Avg Fitness = 210 
+ Shots on Target/Shots Fired = 0/0 
+ Alive: 10/20
+Generation: 117 
+ Avg Fitness = 97 
+ Shots on Target/Shots Fired = 0/20 
+ Alive: 7/20
+Generation: 118 
+ Avg Fitness = -85 
+ Shots on Target/Shots Fired = 0/0 
+ Alive: 3/20
+Generation: 119 
+ Avg Fitness = 346.75 
+ Shots on Target/Shots Fired = 0/0 
+ Alive: 6/20
+Generation: 120 
+ Avg Fitness = 115.25 
+ Shots on Target/Shots Fired = 0/0 
+ Alive: 9/20
+Generation: 121 
+ Avg Fitness = 148 
+ Shots on Target/Shots Fired = 0/20 
+ Alive: 9/20
+Generation: 122 
+ Avg Fitness = 436.5 
+ Shots on Target/Shots Fired = 0/0 
+ Alive: 11/20
+Generation: 123 
+ Avg Fitness = 284.25 
+ Shots on Target/Shots Fired = 0/21 
+ Alive: 9/20
+Generation: 124 
+ Avg Fitness = 69.5 
+ Shots on Target/Shots Fired = 0/0 
+ Alive: 4/20
+Generation: 125 
+ Avg Fitness = 141.5 
+ Shots on Target/Shots Fired = 0/0 
+ Alive: 8/20
+Generation: 126 
+ Avg Fitness = 122 
+ Shots on Target/Shots Fired = 0/0 
+ Alive: 6/20
+Generation: 127 
+ Avg Fitness = 118.5 
+ Shots on Target/Shots Fired = 0/0 
+ Alive: 5/20
+Generation: 128 
+ Avg Fitness = 251.75 
+ Shots on Target/Shots Fired = 0/0 
+ Alive: 10/20
+Generation: 129 
+ Avg Fitness = 246 
+ Shots on Target/Shots Fired = 0/0 
+ Alive: 8/20
+Generation: 130 
+ Avg Fitness = 361.25 
+ Shots on Target/Shots Fired = 0/0 
+ Alive: 10/20
+Generation: 131 
+ Avg Fitness = 65 
+ Shots on Target/Shots Fired = 0/0 
+ Alive: 7/20
+Generation: 132 
+ Avg Fitness = 190.25 
+ Shots on Target/Shots Fired = 0/27 
+ Alive: 11/20
+Generation: 133 
+ Avg Fitness = 1 
+ Shots on Target/Shots Fired = 0/46 
+ Alive: 2/20
+Generation: 134 
+ Avg Fitness = 436 
+ Shots on Target/Shots Fired = 0/46 
+ Alive: 10/20
+Generation: 135 
+ Avg Fitness = 176 
+ Shots on Target/Shots Fired = 0/0 
+ Alive: 9/20
+Generation: 136 
+ Avg Fitness = 78.5 
+ Shots on Target/Shots Fired = 0/19 
+ Alive: 6/20
+Generation: 137 
+ Avg Fitness = 159.75 
+ Shots on Target/Shots Fired = 0/0 
+ Alive: 7/20
+Generation: 138 
+ Avg Fitness = 165.5 
+ Shots on Target/Shots Fired = 0/18 
+ Alive: 9/20
+Generation: 139 
+ Avg Fitness = 356.25 
+ Shots on Target/Shots Fired = 0/39 
+ Alive: 9/20
+Generation: 140 
+ Avg Fitness = 227 
+ Shots on Target/Shots Fired = 0/0 
+ Alive: 10/20
+Generation: 141 
+ Avg Fitness = 15.5 
+ Shots on Target/Shots Fired = 0/5 
+ Alive: 3/20
+Generation: 142 
+ Avg Fitness = 235.5 
+ Shots on Target/Shots Fired = 0/0 
+ Alive: 8/20
+Generation: 143 
+ Avg Fitness = 89.75 
+ Shots on Target/Shots Fired = 0/0 
+ Alive: 10/20
+Generation: 144 
+ Avg Fitness = 254.5 
+ Shots on Target/Shots Fired = 0/0 
+ Alive: 10/20
+Generation: 145 
+ Avg Fitness = 116.75 
+ Shots on Target/Shots Fired = 0/0 
+ Alive: 7/20
+Generation: 146 
+ Avg Fitness = 515.5 
+ Shots on Target/Shots Fired = 0/24 
+ Alive: 9/20
+Generation: 147 
+ Avg Fitness = -70 
+ Shots on Target/Shots Fired = 0/0 
+ Alive: 6/20
+Generation: 148 
+ Avg Fitness = 58 
+ Shots on Target/Shots Fired = 0/0 
+ Alive: 5/20
+Generation: 149 
+ Avg Fitness = 289.75 
+ Shots on Target/Shots Fired = 0/0 
+ Alive: 9/20
+Generation: 150 
+ Avg Fitness = -22.75 
+ Shots on Target/Shots Fired = 0/28 
+ Alive: 5/20
+Generation: 151 
+ Avg Fitness = 250.25 
+ Shots on Target/Shots Fired = 0/0 
+ Alive: 11/20
+Generation: 152 
+ Avg Fitness = 185.5 
+ Shots on Target/Shots Fired = 0/22 
+ Alive: 8/20
+Generation: 153 
+ Avg Fitness = 89 
+ Shots on Target/Shots Fired = 0/24 
+ Alive: 8/20
+Generation: 154 
+ Avg Fitness = 220 
+ Shots on Target/Shots Fired = 0/0 
+ Alive: 7/20
+Generation: 155 
+ Avg Fitness = 220.75 
+ Shots on Target/Shots Fired = 0/15 
+ Alive: 11/20
+Generation: 156 
+ Avg Fitness = 75.5 
+ Shots on Target/Shots Fired = 0/20 
+ Alive: 5/20
+Generation: 157 
+ Avg Fitness = 71.75 
+ Shots on Target/Shots Fired = 0/0 
+ Alive: 9/20
+Generation: 158 
+ Avg Fitness = 160.75 
+ Shots on Target/Shots Fired = 0/37 
+ Alive: 6/20
+Generation: 159 
+ Avg Fitness = 218.25 
+ Shots on Target/Shots Fired = 0/18 
+ Alive: 6/20
+Generation: 160 
+ Avg Fitness = 67.25 
+ Shots on Target/Shots Fired = 0/0 
+ Alive: 4/20
+Generation: 161 
+ Avg Fitness = 83.5 
+ Shots on Target/Shots Fired = 0/18 
+ Alive: 9/20
+Generation: 162 
+ Avg Fitness = 173.5 
+ Shots on Target/Shots Fired = 0/0 
+ Alive: 9/20
+Generation: 163 
+ Avg Fitness = 194 
+ Shots on Target/Shots Fired = 0/0 
+ Alive: 6/20
+Generation: 164 
+ Avg Fitness = 209 
+ Shots on Target/Shots Fired = 0/24 
+ Alive: 8/20
+Generation: 165 
+ Avg Fitness = 286 
+ Shots on Target/Shots Fired = 0/0 
+ Alive: 8/20
+Generation: 166 
+ Avg Fitness = 156.75 
+ Shots on Target/Shots Fired = 0/37 
+ Alive: 5/20
+Generation: 167 
+ Avg Fitness = 361.25 
+ Shots on Target/Shots Fired = 0/17 
+ Alive: 13/20
+Generation: 168 
+ Avg Fitness = 200.75 
+ Shots on Target/Shots Fired = 0/0 
+ Alive: 9/20
+Generation: 169 
+ Avg Fitness = 84.5 
+ Shots on Target/Shots Fired = 0/21 
+ Alive: 8/20
+Generation: 170 
+ Avg Fitness = 293.25 
+ Shots on Target/Shots Fired = 0/26 
+ Alive: 10/20
+Generation: 171 
+ Avg Fitness = 118 
+ Shots on Target/Shots Fired = 0/0 
+ Alive: 8/20
+Generation: 172 
+ Avg Fitness = 70.75 
+ Shots on Target/Shots Fired = 0/15 
+ Alive: 5/20
+Generation: 173 
+ Avg Fitness = 80.5 
+ Shots on Target/Shots Fired = 0/0 
+ Alive: 7/20
+Generation: 174 
+ Avg Fitness = 63.5 
+ Shots on Target/Shots Fired = 0/0 
+ Alive: 7/20
+Generation: 175 
+ Avg Fitness = 188.5 
+ Shots on Target/Shots Fired = 0/0 
+ Alive: 9/20
+Generation: 176 
+ Avg Fitness = 204.5 
+ Shots on Target/Shots Fired = 0/0 
+ Alive: 6/20
+Generation: 177 
+ Avg Fitness = 39.75 
+ Shots on Target/Shots Fired = 0/12 
+ Alive: 4/20
+Generation: 178 
+ Avg Fitness = 218.25 
+ Shots on Target/Shots Fired = 0/0 
+ Alive: 6/20
+Generation: 179 
+ Avg Fitness = 254.25 
+ Shots on Target/Shots Fired = 0/20 
+ Alive: 10/20
+Generation: 180 
+ Avg Fitness = 221.75 
+ Shots on Target/Shots Fired = 0/0 
+ Alive: 12/20
+Generation: 181 
+ Avg Fitness = 326.25 
+ Shots on Target/Shots Fired = 0/0 
+ Alive: 10/20
+Generation: 182 
+ Avg Fitness = 111.75 
+ Shots on Target/Shots Fired = 0/0 
+ Alive: 7/20
+Generation: 183 
+ Avg Fitness = 76 
+ Shots on Target/Shots Fired = 0/0 
+ Alive: 7/20
+Generation: 184 
+ Avg Fitness = 92.25 
+ Shots on Target/Shots Fired = 0/0 
+ Alive: 6/20
+Generation: 185 
+ Avg Fitness = 113.25 
+ Shots on Target/Shots Fired = 0/0 
+ Alive: 8/20
+Generation: 186 
+ Avg Fitness = 279.5 
+ Shots on Target/Shots Fired = 0/0 
+ Alive: 12/20
+Generation: 187 
+ Avg Fitness = 124.5 
+ Shots on Target/Shots Fired = 0/21 
+ Alive: 6/20
+Generation: 188 
+ Avg Fitness = 133.5 
+ Shots on Target/Shots Fired = 0/0 
+ Alive: 7/20
+Generation: 189 
+ Avg Fitness = 259.75 
+ Shots on Target/Shots Fired = 0/0 
+ Alive: 10/20
+Generation: 190 
+ Avg Fitness = 241.75 
+ Shots on Target/Shots Fired = 0/0 
+ Alive: 7/20
+Generation: 191 
+ Avg Fitness = 176 
+ Shots on Target/Shots Fired = 0/0 
+ Alive: 8/20
+Generation: 192 
+ Avg Fitness = 633.5 
+ Shots on Target/Shots Fired = 0/35 
+ Alive: 12/20
+Generation: 193 
+ Avg Fitness = 84.75 
+ Shots on Target/Shots Fired = 0/0 
+ Alive: 7/20
+Generation: 194 
+ Avg Fitness = -56.75 
+ Shots on Target/Shots Fired = 0/0 
+ Alive: 4/20
+Generation: 195 
+ Avg Fitness = 194.75 
+ Shots on Target/Shots Fired = 0/0 
+ Alive: 7/20
+Generation: 196 
+ Avg Fitness = 158.25 
+ Shots on Target/Shots Fired = 0/0 
+ Alive: 12/20
+Generation: 197 
+ Avg Fitness = 140.75 
+ Shots on Target/Shots Fired = 0/0 
+ Alive: 9/20
+Generation: 198 
+ Avg Fitness = 130 
+ Shots on Target/Shots Fired = 0/0 
+ Alive: 9/20
+Generation: 199 
+ Avg Fitness = 11.5 
+ Shots on Target/Shots Fired = 0/0 
+ Alive: 7/20
+Generation: 200 
+ Avg Fitness = 11 
+ Shots on Target/Shots Fired = 0/20 
+ Alive: 8/20
+Generation: 201 
+ Avg Fitness = 166.25 
+ Shots on Target/Shots Fired = 0/0 
+ Alive: 5/20
+Generation: 202 
+ Avg Fitness = 86.75 
+ Shots on Target/Shots Fired = 0/0 
+ Alive: 10/20
+Generation: 203 
+ Avg Fitness = 65.75 
+ Shots on Target/Shots Fired = 0/0 
+ Alive: 5/20
+Generation: 204 
+ Avg Fitness = 278.25 
+ Shots on Target/Shots Fired = 0/0 
+ Alive: 9/20
+Generation: 205 
+ Avg Fitness = 156 
+ Shots on Target/Shots Fired = 0/0 
+ Alive: 10/20
+Generation: 206 
+ Avg Fitness = 66 
+ Shots on Target/Shots Fired = 0/0 
+ Alive: 10/20
+Generation: 207 
+ Avg Fitness = 283.75 
+ Shots on Target/Shots Fired = 0/0 
+ Alive: 11/20
+Generation: 208 
+ Avg Fitness = 1.25 
+ Shots on Target/Shots Fired = 0/22 
+ Alive: 4/20
+Generation: 209 
+ Avg Fitness = 141.75 
+ Shots on Target/Shots Fired = 0/0 
+ Alive: 6/20
+Generation: 210 
+ Avg Fitness = 403.5 
+ Shots on Target/Shots Fired = 0/0 
+ Alive: 8/20
+Generation: 211 
+ Avg Fitness = 73.25 
+ Shots on Target/Shots Fired = 0/0 
+ Alive: 7/20
+Generation: 212 
+ Avg Fitness = 55 
+ Shots on Target/Shots Fired = 0/0 
+ Alive: 6/20
+Generation: 213 
+ Avg Fitness = -43.75 
+ Shots on Target/Shots Fired = 0/0 
+ Alive: 5/20
+Generation: 214 
+ Avg Fitness = 277.25 
+ Shots on Target/Shots Fired = 0/0 
+ Alive: 8/20
+Generation: 215 
+ Avg Fitness = 380 
+ Shots on Target/Shots Fired = 0/0 
+ Alive: 8/20
+Generation: 216 
+ Avg Fitness = 324.75 
+ Shots on Target/Shots Fired = 0/0 
+ Alive: 10/20
+Generation: 217 
+ Avg Fitness = 355.5 
+ Shots on Target/Shots Fired = 0/52 
+ Alive: 10/20
+Generation: 218 
+ Avg Fitness = 443.5 
+ Shots on Target/Shots Fired = 0/39 
+ Alive: 12/20
+Generation: 219 
+ Avg Fitness = 377 
+ Shots on Target/Shots Fired = 0/43 
+ Alive: 9/20
+Generation: 220 
+ Avg Fitness = -85 
+ Shots on Target/Shots Fired = 0/0 
+ Alive: 3/20
+Generation: 221 
+ Avg Fitness = 238.75 
+ Shots on Target/Shots Fired = 0/0 
+ Alive: 10/20
+Generation: 222 
+ Avg Fitness = 61.25 
+ Shots on Target/Shots Fired = 0/39 
+ Alive: 6/20
+Generation: 223 
+ Avg Fitness = 129.75 
+ Shots on Target/Shots Fired = 0/0 
+ Alive: 7/20
+Generation: 224 
+ Avg Fitness = 13 
+ Shots on Target/Shots Fired = 0/0 
+ Alive: 8/20
+Generation: 225 
+ Avg Fitness = 502.25 
+ Shots on Target/Shots Fired = 0/58 
+ Alive: 15/20
+Generation: 226 
+ Avg Fitness = 255.75 
+ Shots on Target/Shots Fired = 0/0 
+ Alive: 13/20
+Generation: 227 
+ Avg Fitness = 254.25 
+ Shots on Target/Shots Fired = 0/20 
+ Alive: 9/20
+Generation: 228 
+ Avg Fitness = 368.75 
+ Shots on Target/Shots Fired = 0/0 
+ Alive: 10/20
+Generation: 229 
+ Avg Fitness = 190.5 
+ Shots on Target/Shots Fired = 0/0 
+ Alive: 7/20
+Generation: 230 
+ Avg Fitness = 17.75 
+ Shots on Target/Shots Fired = 0/0 
+ Alive: 7/20
+Generation: 231 
+ Avg Fitness = 107.25 
+ Shots on Target/Shots Fired = 0/0 
+ Alive: 7/20
+Generation: 232 
+ Avg Fitness = 210 
+ Shots on Target/Shots Fired = 0/0 
+ Alive: 11/20
+Generation: 233 
+ Avg Fitness = 26.75 
+ Shots on Target/Shots Fired = 0/0 
+ Alive: 6/20
+Generation: 234 
+ Avg Fitness = 203 
+ Shots on Target/Shots Fired = 0/22 
+ Alive: 10/20
+Generation: 235 
+ Avg Fitness = 81.5 
+ Shots on Target/Shots Fired = 0/0 
+ Alive: 7/20
+Generation: 236 
+ Avg Fitness = 340.75 
+ Shots on Target/Shots Fired = 0/0 
+ Alive: 8/20
+Generation: 237 
+ Avg Fitness = 270 
+ Shots on Target/Shots Fired = 0/21 
+ Alive: 10/20
+Generation: 238 
+ Avg Fitness = 53 
+ Shots on Target/Shots Fired = 0/0 
+ Alive: 8/20
+Generation: 239 
+ Avg Fitness = 196.25 
+ Shots on Target/Shots Fired = 0/0 
+ Alive: 9/20
+Generation: 240 
+ Avg Fitness = 262.25 
+ Shots on Target/Shots Fired = 0/0 
+ Alive: 10/20
+Generation: 241 
+ Avg Fitness = 410.25 
+ Shots on Target/Shots Fired = 0/40 
+ Alive: 12/20
+Generation: 242 
+ Avg Fitness = 103.25 
+ Shots on Target/Shots Fired = 0/0 
+ Alive: 8/20
+Generation: 243 
+ Avg Fitness = 3.25 
+ Shots on Target/Shots Fired = 0/0 
+ Alive: 4/20
+Generation: 244 
+ Avg Fitness = 146.5 
+ Shots on Target/Shots Fired = 0/16 
+ Alive: 7/20
+Generation: 245 
+ Avg Fitness = 148 
+ Shots on Target/Shots Fired = 0/17 
+ Alive: 8/20
+Generation: 246 
+ Avg Fitness = 115 
+ Shots on Target/Shots Fired = 0/0 
+ Alive: 13/20
+Generation: 247 
+ Avg Fitness = 314 
+ Shots on Target/Shots Fired = 0/39 
+ Alive: 10/20
+Generation: 248 
+ Avg Fitness = 313 
+ Shots on Target/Shots Fired = 0/0 
+ Alive: 10/20
+Generation: 249 
+ Avg Fitness = 106 
+ Shots on Target/Shots Fired = 0/0 
+ Alive: 9/20
+Generation: 250 
+ Avg Fitness = 128.75 
+ Shots on Target/Shots Fired = 0/19 
+ Alive: 7/20
+Generation: 251 
+ Avg Fitness = -2 
+ Shots on Target/Shots Fired = 0/0 
+ Alive: 4/20
+Generation: 252 
+ Avg Fitness = 89 
+ Shots on Target/Shots Fired = 0/0 
+ Alive: 12/20
+Generation: 253 
+ Avg Fitness = 124 
+ Shots on Target/Shots Fired = 0/20 
+ Alive: 9/20
+Generation: 254 
+ Avg Fitness = 303 
+ Shots on Target/Shots Fired = 0/20 
+ Alive: 9/20
+Generation: 255 
+ Avg Fitness = 75.25 
+ Shots on Target/Shots Fired = 0/0 
+ Alive: 4/20
+Generation: 256 
+ Avg Fitness = 234.25 
+ Shots on Target/Shots Fired = 0/0 
+ Alive: 7/20
+Generation: 257 
+ Avg Fitness = 6.75 
+ Shots on Target/Shots Fired = 0/30 
+ Alive: 6/20
+Generation: 258 
+ Avg Fitness = 193.5 
+ Shots on Target/Shots Fired = 0/0 
+ Alive: 11/20
+Generation: 259 
+ Avg Fitness = 143 
+ Shots on Target/Shots Fired = 0/0 
+ Alive: 10/20
+Generation: 260 
+ Avg Fitness = 436.75 
+ Shots on Target/Shots Fired = 0/0 
+ Alive: 11/20
+Generation: 261 
+ Avg Fitness = 353.75 
+ Shots on Target/Shots Fired = 0/0 
+ Alive: 10/20
+Generation: 262 
+ Avg Fitness = 102 
+ Shots on Target/Shots Fired = 0/0 
+ Alive: 4/20
+Generation: 263 
+ Avg Fitness = 194 
+ Shots on Target/Shots Fired = 0/20 
+ Alive: 8/20
+Generation: 264 
+ Avg Fitness = 70.25 
+ Shots on Target/Shots Fired = 0/0 
+ Alive: 9/20
+Generation: 265 
+ Avg Fitness = 300.75 
+ Shots on Target/Shots Fired = 0/46 
+ Alive: 10/20
+Generation: 266 
+ Avg Fitness = 306.25 
+ Shots on Target/Shots Fired = 0/0 
+ Alive: 11/20
+Generation: 267 
+ Avg Fitness = 81.5 
+ Shots on Target/Shots Fired = 0/0 
+ Alive: 8/20
+Generation: 268 
+ Avg Fitness = 172.75 
+ Shots on Target/Shots Fired = 0/22 
+ Alive: 5/20
+Generation: 269 
+ Avg Fitness = 269.75 
+ Shots on Target/Shots Fired = 0/21 
+ Alive: 6/20
+Generation: 270 
+ Avg Fitness = -9.75 
+ Shots on Target/Shots Fired = 0/0 
+ Alive: 6/20
+Generation: 271 
+ Avg Fitness = 458 
+ Shots on Target/Shots Fired = 0/0 
+ Alive: 6/20
+Generation: 272 
+ Avg Fitness = 90.25 
+ Shots on Target/Shots Fired = 0/0 
+ Alive: 8/20
+Generation: 273 
+ Avg Fitness = 54 
+ Shots on Target/Shots Fired = 0/20 
+ Alive: 6/20
+Generation: 274 
+ Avg Fitness = 67.5 
+ Shots on Target/Shots Fired = 0/0 
+ Alive: 5/20
+Generation: 275 
+ Avg Fitness = 234.75 
+ Shots on Target/Shots Fired = 0/16 
+ Alive: 11/20
+Generation: 276 
+ Avg Fitness = 82 
+ Shots on Target/Shots Fired = 0/0 
+ Alive: 10/20
+Generation: 277 
+ Avg Fitness = 194.25 
+ Shots on Target/Shots Fired = 0/0 
+ Alive: 11/20
+Generation: 278 
+ Avg Fitness = 157.25 
+ Shots on Target/Shots Fired = 0/0 
+ Alive: 4/20
+Generation: 279 
+ Avg Fitness = 48.5 
+ Shots on Target/Shots Fired = 0/0 
+ Alive: 9/20
+Generation: 280 
+ Avg Fitness = 142.25 
+ Shots on Target/Shots Fired = 0/0 
+ Alive: 10/20
+Generation: 281 
+ Avg Fitness = 375.5 
+ Shots on Target/Shots Fired = 0/0 
+ Alive: 11/20
+Generation: 282 
+ Avg Fitness = 133.5 
+ Shots on Target/Shots Fired = 0/0 
+ Alive: 10/20
+Generation: 283 
+ Avg Fitness = 14.5 
+ Shots on Target/Shots Fired = 0/0 
+ Alive: 7/20
+Generation: 284 
+ Avg Fitness = 126.25 
+ Shots on Target/Shots Fired = 0/0 
+ Alive: 7/20
+Generation: 285 
+ Avg Fitness = 2.75 
+ Shots on Target/Shots Fired = 0/15 
+ Alive: 7/20
+Generation: 286 
+ Avg Fitness = -41.75 
+ Shots on Target/Shots Fired = 0/0 
+ Alive: 7/20
+Generation: 287 
+ Avg Fitness = 48.5 
+ Shots on Target/Shots Fired = 0/0 
+ Alive: 7/20
+Generation: 288 
+ Avg Fitness = 110.75 
+ Shots on Target/Shots Fired = 0/0 
+ Alive: 5/20
+Generation: 289 
+ Avg Fitness = 128.25 
+ Shots on Target/Shots Fired = 0/0 
+ Alive: 8/20
+Generation: 290 
+ Avg Fitness = 24.75 
+ Shots on Target/Shots Fired = 0/230 
+ Alive: 8/20
+Generation: 291 
+ Avg Fitness = 330.25 
+ Shots on Target/Shots Fired = 0/0 
+ Alive: 11/20
+Generation: 292 
+ Avg Fitness = 241 
+ Shots on Target/Shots Fired = 0/16 
+ Alive: 8/20
+Generation: 293 
+ Avg Fitness = 292.75 
+ Shots on Target/Shots Fired = 0/22 
+ Alive: 11/20
+Generation: 294 
+ Avg Fitness = 383.25 
+ Shots on Target/Shots Fired = 0/24 
+ Alive: 8/20
+Generation: 295 
+ Avg Fitness = 213.75 
+ Shots on Target/Shots Fired = 0/0 
+ Alive: 9/20
+Generation: 296 
+ Avg Fitness = 372 
+ Shots on Target/Shots Fired = 0/22 
+ Alive: 12/20
+Generation: 297 
+ Avg Fitness = 25.5 
+ Shots on Target/Shots Fired = 0/0 
+ Alive: 9/20
+Generation: 298 
+ Avg Fitness = 50.75 
+ Shots on Target/Shots Fired = 0/0 
+ Alive: 8/20
+Generation: 299 
+ Avg Fitness = 46.75 
+ Shots on Target/Shots Fired = 0/42 
+ Alive: 7/20
+Generation: 300 
+ Avg Fitness = 244.25 
+ Shots on Target/Shots Fired = 0/7 
+ Alive: 8/20
+Generation: 301 
+ Avg Fitness = -5.5 
+ Shots on Target/Shots Fired = 0/0 
+ Alive: 5/20
+Generation: 302 
+ Avg Fitness = 243 
+ Shots on Target/Shots Fired = 0/0 
+ Alive: 9/20
+Generation: 303 
+ Avg Fitness = -10.25 
+ Shots on Target/Shots Fired = 0/0 
+ Alive: 8/20
+Generation: 304 
+ Avg Fitness = 235.5 
+ Shots on Target/Shots Fired = 0/21 
+ Alive: 11/20
+Generation: 305 
+ Avg Fitness = 168.25 
+ Shots on Target/Shots Fired = 0/0 
+ Alive: 8/20
+Generation: 306 
+ Avg Fitness = 125 
+ Shots on Target/Shots Fired = 0/43 
+ Alive: 8/20
+Generation: 307 
+ Avg Fitness = 112.25 
+ Shots on Target/Shots Fired = 0/0 
+ Alive: 6/20
+Generation: 308 
+ Avg Fitness = 284.75 
+ Shots on Target/Shots Fired = 0/0 
+ Alive: 8/20
+Generation: 309 
+ Avg Fitness = 226 
+ Shots on Target/Shots Fired = 0/0 
+ Alive: 8/20
+Generation: 310 
+ Avg Fitness = 135 
+ Shots on Target/Shots Fired = 0/19 
+ Alive: 9/20
+Generation: 311 
+ Avg Fitness = 360 
+ Shots on Target/Shots Fired = 0/20 
+ Alive: 9/20
+Generation: 312 
+ Avg Fitness = 89.5 
+ Shots on Target/Shots Fired = 0/16 
+ Alive: 7/20
+Generation: 313 
+ Avg Fitness = 281 
+ Shots on Target/Shots Fired = 0/0 
+ Alive: 10/20
+Generation: 314 
+ Avg Fitness = -80 
+ Shots on Target/Shots Fired = 0/0 
+ Alive: 4/20
+Generation: 315 
+ Avg Fitness = 231 
+ Shots on Target/Shots Fired = 0/23 
+ Alive: 8/20
+Generation: 316 
+ Avg Fitness = 135.25 
+ Shots on Target/Shots Fired = 0/39 
+ Alive: 5/20
+Generation: 317 
+ Avg Fitness = 172.75 
+ Shots on Target/Shots Fired = 0/21 
+ Alive: 9/20
+Generation: 318 
+ Avg Fitness = 232 
+ Shots on Target/Shots Fired = 0/0 
+ Alive: 11/20
+Generation: 319 
+ Avg Fitness = 288.25 
+ Shots on Target/Shots Fired = 0/0 
+ Alive: 13/20
+Generation: 320 
+ Avg Fitness = 283.25 
+ Shots on Target/Shots Fired = 0/20 
+ Alive: 8/20
+Generation: 321 
+ Avg Fitness = 199.25 
+ Shots on Target/Shots Fired = 0/20 
+ Alive: 10/20
+Generation: 322 
+ Avg Fitness = 301.25 
+ Shots on Target/Shots Fired = 0/24 
+ Alive: 11/20
+Generation: 323 
+ Avg Fitness = 64.25 
+ Shots on Target/Shots Fired = 0/19 
+ Alive: 8/20
+Generation: 324 
+ Avg Fitness = 337.75 
+ Shots on Target/Shots Fired = 0/0 
+ Alive: 16/20
+Generation: 325 
+ Avg Fitness = 136.75 
+ Shots on Target/Shots Fired = 0/0 
+ Alive: 5/20
+Generation: 326 
+ Avg Fitness = 458.5 
+ Shots on Target/Shots Fired = 0/0 
+ Alive: 12/20
+Generation: 327 
+ Avg Fitness = 174.5 
+ Shots on Target/Shots Fired = 0/21 
+ Alive: 9/20
+Generation: 328 
+ Avg Fitness = 102.25 
+ Shots on Target/Shots Fired = 0/19 
+ Alive: 10/20
+Generation: 329 
+ Avg Fitness = 193.25 
+ Shots on Target/Shots Fired = 0/20 
+ Alive: 8/20
+Generation: 330 
+ Avg Fitness = 293.25 
+ Shots on Target/Shots Fired = 0/0 
+ Alive: 11/20
+Generation: 331 
+ Avg Fitness = 91.75 
+ Shots on Target/Shots Fired = 0/0 
+ Alive: 11/20
+Generation: 332 
+ Avg Fitness = 36.25 
+ Shots on Target/Shots Fired = 0/0 
+ Alive: 5/20
+Generation: 333 
+ Avg Fitness = 120.5 
+ Shots on Target/Shots Fired = 0/24 
+ Alive: 6/20
+Generation: 334 
+ Avg Fitness = 165 
+ Shots on Target/Shots Fired = 0/25 
+ Alive: 7/20
+Generation: 335 
+ Avg Fitness = 238.75 
+ Shots on Target/Shots Fired = 0/0 
+ Alive: 8/20
+Generation: 336 
+ Avg Fitness = 74.25 
+ Shots on Target/Shots Fired = 0/0 
+ Alive: 6/20
+Generation: 337 
+ Avg Fitness = 36.25 
+ Shots on Target/Shots Fired = 0/0 
+ Alive: 5/20
+Generation: 338 
+ Avg Fitness = 137 
+ Shots on Target/Shots Fired = 0/0 
+ Alive: 10/20
+Generation: 339 
+ Avg Fitness = 418.25 
+ Shots on Target/Shots Fired = 0/0 
+ Alive: 9/20
+Generation: 340 
+ Avg Fitness = 248.5 
+ Shots on Target/Shots Fired = 0/20 
+ Alive: 7/20
+Generation: 341 
+ Avg Fitness = 53.75 
+ Shots on Target/Shots Fired = 0/0 
+ Alive: 10/20
+Generation: 342 
+ Avg Fitness = 94.5 
+ Shots on Target/Shots Fired = 0/21 
+ Alive: 4/20
+Generation: 343 
+ Avg Fitness = 147.75 
+ Shots on Target/Shots Fired = 0/0 
+ Alive: 10/20
+Generation: 344 
+ Avg Fitness = 188 
+ Shots on Target/Shots Fired = 0/0 
+ Alive: 11/20
+Generation: 345 
+ Avg Fitness = 147 
+ Shots on Target/Shots Fired = 0/0 
+ Alive: 7/20
+Generation: 346 
+ Avg Fitness = 110 
+ Shots on Target/Shots Fired = 0/0 
+ Alive: 10/20
+Generation: 347 
+ Avg Fitness = 181.25 
+ Shots on Target/Shots Fired = 0/21 
+ Alive: 7/20
+Generation: 348 
+ Avg Fitness = 251.75 
+ Shots on Target/Shots Fired = 0/0 
+ Alive: 7/20
+Generation: 349 
+ Avg Fitness = 34.25 
+ Shots on Target/Shots Fired = 0/0 
+ Alive: 7/20
+Generation: 350 
+ Avg Fitness = 246.75 
+ Shots on Target/Shots Fired = 0/20 
+ Alive: 11/20
+Generation: 351 
+ Avg Fitness = 241.75 
+ Shots on Target/Shots Fired = 0/0 
+ Alive: 9/20
+Generation: 352 
+ Avg Fitness = 322.75 
+ Shots on Target/Shots Fired = 0/20 
+ Alive: 7/20
+Generation: 353 
+ Avg Fitness = 183.5 
+ Shots on Target/Shots Fired = 0/0 
+ Alive: 8/20
+Generation: 354 
+ Avg Fitness = 91 
+ Shots on Target/Shots Fired = 0/0 
+ Alive: 8/20
+Generation: 355 
+ Avg Fitness = 311.75 
+ Shots on Target/Shots Fired = 0/0 
+ Alive: 11/20
+Generation: 356 
+ Avg Fitness = 247.75 
+ Shots on Target/Shots Fired = 0/15 
+ Alive: 12/20
+Generation: 357 
+ Avg Fitness = 31.5 
+ Shots on Target/Shots Fired = 0/0 
+ Alive: 7/20
+Generation: 358 
+ Avg Fitness = 412.5 
+ Shots on Target/Shots Fired = 0/16 
+ Alive: 12/20
+Generation: 359 
+ Avg Fitness = 216.5 
+ Shots on Target/Shots Fired = 0/20 
+ Alive: 11/20
+Generation: 360 
+ Avg Fitness = 109 
+ Shots on Target/Shots Fired = 0/0 
+ Alive: 9/20
+Generation: 361 
+ Avg Fitness = 274.5 
+ Shots on Target/Shots Fired = 0/31 
+ Alive: 9/20
+Generation: 362 
+ Avg Fitness = 141 
+ Shots on Target/Shots Fired = 0/0 
+ Alive: 8/20
+Generation: 363 
+ Avg Fitness = 673.75 
+ Shots on Target/Shots Fired = 0/41 
+ Alive: 14/20
+Generation: 364 
+ Avg Fitness = 66.75 
+ Shots on Target/Shots Fired = 0/18 
+ Alive: 8/20
+Generation: 365 
+ Avg Fitness = 151 
+ Shots on Target/Shots Fired = 0/21 
+ Alive: 7/20
+Generation: 366 
+ Avg Fitness = 165 
+ Shots on Target/Shots Fired = 0/23 
+ Alive: 9/20
+Generation: 367 
+ Avg Fitness = 1.25 
+ Shots on Target/Shots Fired = 0/11 
+ Alive: 5/20
+Generation: 368 
+ Avg Fitness = 126.75 
+ Shots on Target/Shots Fired = 0/20 
+ Alive: 10/20
+Generation: 369 
+ Avg Fitness = 390.75 
+ Shots on Target/Shots Fired = 0/0 
+ Alive: 10/20
+Generation: 370 
+ Avg Fitness = 178.75 
+ Shots on Target/Shots Fired = 0/0 
+ Alive: 7/20
+Generation: 371 
+ Avg Fitness = 83.5 
+ Shots on Target/Shots Fired = 0/0 
+ Alive: 8/20
+Generation: 372 
+ Avg Fitness = 209.25 
+ Shots on Target/Shots Fired = 0/0 
+ Alive: 9/20
+Generation: 373 
+ Avg Fitness = 43 
+ Shots on Target/Shots Fired = 0/0 
+ Alive: 5/20
+Generation: 374 
+ Avg Fitness = 525.25 
+ Shots on Target/Shots Fired = 0/42 
+ Alive: 8/20
+Generation: 375 
+ Avg Fitness = 69 
+ Shots on Target/Shots Fired = 0/0 
+ Alive: 4/20
+Generation: 376 
+ Avg Fitness = 156.25 
+ Shots on Target/Shots Fired = 0/0 
+ Alive: 9/20
+Generation: 377 
+ Avg Fitness = 99.75 
+ Shots on Target/Shots Fired = 0/0 
+ Alive: 8/20
+Generation: 378 
+ Avg Fitness = 107.25 
+ Shots on Target/Shots Fired = 0/0 
+ Alive: 8/20
+Generation: 379 
+ Avg Fitness = 351 
+ Shots on Target/Shots Fired = 0/0 
+ Alive: 10/20
+Generation: 380 
+ Avg Fitness = 53.5 
+ Shots on Target/Shots Fired = 0/0 
+ Alive: 5/20
+Generation: 381 
+ Avg Fitness = 180.5 
+ Shots on Target/Shots Fired = 0/0 
+ Alive: 11/20
+Generation: 382 
+ Avg Fitness = 254.5 
+ Shots on Target/Shots Fired = 0/0 
+ Alive: 7/20
+Generation: 383 
+ Avg Fitness = 174 
+ Shots on Target/Shots Fired = 0/0 
+ Alive: 6/20
+Generation: 384 
+ Avg Fitness = 262 
+ Shots on Target/Shots Fired = 0/0 
+ Alive: 7/20
+Generation: 385 
+ Avg Fitness = 150.75 
+ Shots on Target/Shots Fired = 0/0 
+ Alive: 7/20
+Generation: 386 
+ Avg Fitness = 142 
+ Shots on Target/Shots Fired = 0/0 
+ Alive: 7/20
+Generation: 387 
+ Avg Fitness = 282 
+ Shots on Target/Shots Fired = 0/6 
+ Alive: 9/20
+Generation: 388 
+ Avg Fitness = 128.75 
+ Shots on Target/Shots Fired = 0/0 
+ Alive: 6/20
+Generation: 389 
+ Avg Fitness = 161.75 
+ Shots on Target/Shots Fired = 0/0 
+ Alive: 10/20
+Generation: 390 
+ Avg Fitness = 250.25 
+ Shots on Target/Shots Fired = 0/0 
+ Alive: 7/20
+Generation: 391 
+ Avg Fitness = 135.25 
+ Shots on Target/Shots Fired = 0/0 
+ Alive: 5/20
+Generation: 392 
+ Avg Fitness = 191.5 
+ Shots on Target/Shots Fired = 0/0 
+ Alive: 9/20
+Generation: 393 
+ Avg Fitness = 47.75 
+ Shots on Target/Shots Fired = 0/0 
+ Alive: 6/20
+Generation: 394 
+ Avg Fitness = -75 
+ Shots on Target/Shots Fired = 0/0 
+ Alive: 5/20
+Generation: 395 
+ Avg Fitness = 34 
+ Shots on Target/Shots Fired = 0/18 
+ Alive: 6/20
+Generation: 396 
+ Avg Fitness = -19.5 
+ Shots on Target/Shots Fired = 0/0 
+ Alive: 8/20
+Generation: 397 
+ Avg Fitness = -75 
+ Shots on Target/Shots Fired = 0/0 
+ Alive: 5/20
+Generation: 398 
+ Avg Fitness = 451.5 
+ Shots on Target/Shots Fired = 0/21 
+ Alive: 12/20
+Generation: 399 
+ Avg Fitness = 119.25 
+ Shots on Target/Shots Fired = 0/16 
+ Alive: 4/20
+Generation: 400 
+ Avg Fitness = 313.25 
+ Shots on Target/Shots Fired = 0/24 
+ Alive: 7/20
+Generation: 401 
+ Avg Fitness = 24.25 
+ Shots on Target/Shots Fired = 0/0 
+ Alive: 5/20
+Generation: 402 
+ Avg Fitness = 228.5 
+ Shots on Target/Shots Fired = 0/0 
+ Alive: 7/20
+Generation: 403 
+ Avg Fitness = 354 
+ Shots on Target/Shots Fired = 0/32 
+ Alive: 11/20
+Generation: 404 
+ Avg Fitness = 370.5 
+ Shots on Target/Shots Fired = 0/18 
+ Alive: 9/20
+Generation: 405 
+ Avg Fitness = 185.25 
+ Shots on Target/Shots Fired = 0/0 
+ Alive: 6/20
+Generation: 406 
+ Avg Fitness = 167 
+ Shots on Target/Shots Fired = 0/0 
+ Alive: 7/20
+Generation: 407 
+ Avg Fitness = 16.75 
+ Shots on Target/Shots Fired = 0/0 
+ Alive: 6/20
+Generation: 408 
+ Avg Fitness = 227.75 
+ Shots on Target/Shots Fired = 0/22 
+ Alive: 12/20
+Generation: 409 
+ Avg Fitness = 49.25 
+ Shots on Target/Shots Fired = 0/23 
+ Alive: 2/20
+Generation: 410 
+ Avg Fitness = 226.75 
+ Shots on Target/Shots Fired = 0/0 
+ Alive: 12/20
+Generation: 411 
+ Avg Fitness = -17.5 
+ Shots on Target/Shots Fired = 0/0 
+ Alive: 5/20
+Generation: 412 
+ Avg Fitness = -5.5 
+ Shots on Target/Shots Fired = 0/0 
+ Alive: 6/20
+Generation: 413 
+ Avg Fitness = 199.25 
+ Shots on Target/Shots Fired = 0/0 
+ Alive: 11/20
+Generation: 414 
+ Avg Fitness = 188 
+ Shots on Target/Shots Fired = 0/19 
+ Alive: 8/20
+Generation: 415 
+ Avg Fitness = 125.5 
+ Shots on Target/Shots Fired = 0/21 
+ Alive: 8/20
+Generation: 416 
+ Avg Fitness = 99 
+ Shots on Target/Shots Fired = 0/0 
+ Alive: 9/20
+Generation: 417 
+ Avg Fitness = 128 
+ Shots on Target/Shots Fired = 0/21 
+ Alive: 6/20
+Generation: 418 
+ Avg Fitness = 193 
+ Shots on Target/Shots Fired = 0/0 
+ Alive: 8/20
+Generation: 419 
+ Avg Fitness = 180.25 
+ Shots on Target/Shots Fired = 0/0 
+ Alive: 10/20
+Generation: 420 
+ Avg Fitness = 594.25 
+ Shots on Target/Shots Fired = 0/0 
+ Alive: 14/20
+Generation: 421 
+ Avg Fitness = 251 
+ Shots on Target/Shots Fired = 0/0 
+ Alive: 10/20
+Generation: 422 
+ Avg Fitness = -95 
+ Shots on Target/Shots Fired = 0/0 
+ Alive: 1/20
+Generation: 423 
+ Avg Fitness = 387.75 
+ Shots on Target/Shots Fired = 0/0 
+ Alive: 9/20
+Generation: 424 
+ Avg Fitness = 119.25 
+ Shots on Target/Shots Fired = 0/14 
+ Alive: 5/20
+Generation: 425 
+ Avg Fitness = 148 
+ Shots on Target/Shots Fired = 0/22 
+ Alive: 8/20
+Generation: 426 
+ Avg Fitness = 357.5 
+ Shots on Target/Shots Fired = 0/18 
+ Alive: 13/20
+Generation: 427 
+ Avg Fitness = 191 
+ Shots on Target/Shots Fired = 0/0 
+ Alive: 8/20
+Generation: 428 
+ Avg Fitness = 261 
+ Shots on Target/Shots Fired = 0/20 
+ Alive: 8/20
+Generation: 429 
+ Avg Fitness = -23.5 
+ Shots on Target/Shots Fired = 0/0 
+ Alive: 5/20
+Generation: 430 
+ Avg Fitness = 141 
+ Shots on Target/Shots Fired = 0/0 
+ Alive: 5/20
+Generation: 431 
+ Avg Fitness = 131 
+ Shots on Target/Shots Fired = 0/0 
+ Alive: 7/20
+Generation: 432 
+ Avg Fitness = 549 
+ Shots on Target/Shots Fired = 0/0 
+ Alive: 8/20
+Generation: 433 
+ Avg Fitness = 208.5 
+ Shots on Target/Shots Fired = 0/0 
+ Alive: 8/20
+Generation: 434 
+ Avg Fitness = 119.75 
+ Shots on Target/Shots Fired = 0/0 
+ Alive: 9/20
+Generation: 435 
+ Avg Fitness = 19 
+ Shots on Target/Shots Fired = 0/0 
+ Alive: 8/20
+Generation: 436 
+ Avg Fitness = 72 
+ Shots on Target/Shots Fired = 0/0 
+ Alive: 7/20
+Generation: 437 
+ Avg Fitness = 224.75 
+ Shots on Target/Shots Fired = 0/57 
+ Alive: 9/20
+Generation: 438 
+ Avg Fitness = 281 
+ Shots on Target/Shots Fired = 0/81 
+ Alive: 8/20
+Generation: 439 
+ Avg Fitness = 248.75 
+ Shots on Target/Shots Fired = 0/13 
+ Alive: 6/20
+Generation: 440 
+ Avg Fitness = 276.75 
+ Shots on Target/Shots Fired = 0/5 
+ Alive: 11/20
+Generation: 441 
+ Avg Fitness = 152.25 
+ Shots on Target/Shots Fired = 0/37 
+ Alive: 4/20
+Generation: 442 
+ Avg Fitness = 337.5 
+ Shots on Target/Shots Fired = 0/20 
+ Alive: 13/20
+Generation: 443 
+ Avg Fitness = 76 
+ Shots on Target/Shots Fired = 0/0 
+ Alive: 8/20
+Generation: 444 
+ Avg Fitness = 202 
+ Shots on Target/Shots Fired = 0/0 
+ Alive: 12/20
