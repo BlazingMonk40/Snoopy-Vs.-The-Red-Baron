@@ -114,7 +114,7 @@ public class PlaneAI2 : MonoBehaviour
         if(Vector3.Angle(transform.forward, target.position - transform.position) < 1f)
         {
             //Debug.Log($"Adding Fitness for firing: {gameObject.name}");
-            gameObject.GetComponentInChildren<GunScript>().Fire(gameObject.name);
+            gameObject.GetComponentInChildren<GunScript>().Fire();
             net.AddFitness(20);
             fitness = net.GetFitness();
         }

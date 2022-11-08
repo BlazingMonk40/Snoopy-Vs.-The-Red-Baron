@@ -16,7 +16,7 @@ public class BulletHitScript : MonoBehaviour
     }
     private void OnCollisionEnter(Collision collision)
     {
-        if(!collision.gameObject.name.Equals("Ground") && collision.gameObject.name.Equals("Cube") && collision.gameObject.name.Equals("Wall"))
+        if(collision.gameObject.tag != "Scenery")
             Debug.Log($"Bullet Hit {collision.gameObject.name}");
         if(collision.gameObject.name.Equals("Goal") || GameObject.Find("GameManager").GetComponent<GameManager>().goal == true)
         {

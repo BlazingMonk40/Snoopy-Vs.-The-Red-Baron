@@ -10,7 +10,7 @@ public class NewPlaneAI : MonoBehaviour
     public LayerMask raycastMask;
     private Rigidbody rigid;
     public Vector3 rotation;
-    public float forceMult = 100f;
+    public float forceMult = 1000f;
 
     public GameManager manager;
     public NeuralNetworkFeedForward net;
@@ -22,8 +22,22 @@ public class NewPlaneAI : MonoBehaviour
     public float currentRollRotation;
     public float distanceToTarget;
     
+
+    /// <summary>
+    /// Deactivates the plane and sets fitness to neg infinity
+    /// </summary>
+    internal void Kill()
+    {
+        if (gameObject.activeInHierarchy)
+        {
+            net.SetFitness(Mathf.NegativeInfinity);
+
+            gameObject.SetActive(false);
+        }
+    }
+
     public GameObject target;
-    public float rayDistance = 100f;
+    public float rayDistance = 10f;
     public int feedForwardCount;
 
     [Header("AI Outputs")]
@@ -34,7 +48,7 @@ public class NewPlaneAI : MonoBehaviour
 
     [Header("Input/Output Arrays")]
     [Tooltip("\nElement 5: Altitude\nElement 6: Current Pitch Rotation\nElement 7: Current Yaw Rotation\nElement 8: Current Roll Rotation\nElement 9: Angle to Target\nElement 10: Distance to target")]
-    [SerializeField] private float[] input = new float[11];
+    [SerializeField] private float[] input = new float[8];
     [SerializeField] private float[] output;
     
 
@@ -74,11 +88,11 @@ public class NewPlaneAI : MonoBehaviour
         currentLocation = gameObject.transform.position;
 
         currentDistance = getDistanceToTarget;
-        //if (currentDistance <= manager.closestDistance)
-        //{
-        //    manager.closestDistance = currentDistance;
-        //    Debug.LogWarning($"New Closest Distance: {manager.closestDistance}");
-        //}
+        if (currentDistance <= manager.closestDistance)
+        {
+            manager.closestDistance = currentDistance;
+            Debug.LogWarning($"New Closest Distance: {manager.closestDistance}");
+        }
             
         altitude = getAltitude;
         distanceToTarget = getDistanceToTarget;
@@ -86,30 +100,35 @@ public class NewPlaneAI : MonoBehaviour
         currentYawRotation = transform.rotation.y;
         currentRollRotation = transform.rotation.z;
         float prevDistance = getDistanceToTarget;
-        StartCoroutine(IsCloser(prevDistance));
+        IsCloser(prevDistance);
 
         if(increaseThrustPercentBool)
         {
             forceMult += 20f * Time.deltaTime;
         }
     }
-    private IEnumerator IsCloser(float previousDist)
+
+    /// <summary>
+    /// 
+    /// </summary>
+    /// <param name="previousDist"></param>
+    /// <returns></returns>
+    private void IsCloser(float previousDist)
     {
-        yield return new WaitForSeconds(2f);
-        if (getDistanceToTarget < previousDist)
-            net.AddFitness(100f);
-        else if (getDistanceToTarget > previousDist)
-            net.AddFitness(-10f);
+        float currentDistance = getDistanceToTarget;
+        if (currentDistance < manager.closestDistance)
+            net.SetFitness(Mathf.Infinity);
     }
     private void FixedUpdate()
     {
         //the first 5 inputs are from ray casts
-        input[0] = getAltitude;
-        input[1] = getCurrentPitchRotation;
-        input[2] = getCurrentYawRotation;
-        input[3] = getCurrentRollRotation;
-        input[4] = getAngleToTarget;
-        input[5] = getDistanceToTarget;
+        input[5] = getAltitude;
+        //input[6] = getCurrentPitchRotation;
+        //input[7] = getCurrentYawRotation;
+        //input[8] = getCurrentRollRotation;
+        input[6] = getAngleToTarget;
+        input[7] = getDistanceToTarget;
+        
         #region RayCasting //Ray Drawing commented out
         //Test ray, points forward
         Vector3 forward = transform.TransformDirection(Vector3.forward) * 5;
@@ -119,7 +138,7 @@ public class NewPlaneAI : MonoBehaviour
             RaycastHit hit;
             Ray ray;
             Vector3[] newVector = new Vector3[3];
-
+            Debug.DrawRay(transform.position, ge)
             for (int i = 0; i < 5; i++)//12 if [3]
             {
                 //newVector[3] = Quaternion.AngleAxis(i * 30, transform.forward) * Quaternion.Euler(rotation) * -transform.up * rayDistance; //Point rays in a spread of 45 degrees, rotating around the z-axis (below)
@@ -151,9 +170,9 @@ public class NewPlaneAI : MonoBehaviour
 
         #region Movement
         // 4 outputs  Forward Thrust, Pitch (-1, 1), Yaw (-1, 1), Roll (-1, 1)
-         if (Vector3.Distance(spawnLocation, currentLocation) >= 800)
+         if (Vector3.Distance(spawnLocation, currentLocation) >= 100)
         {
-            Debug.LogError("Call Feed Forward");
+            //Debug.Log("Starting distance surpassed: Calling Feed Forward");
             CallFeedFoward();
         }else
         {
@@ -172,7 +191,7 @@ public class NewPlaneAI : MonoBehaviour
             Roll = .15f;
         }
         #region Increase Thrust
-        if (forceMult < 100f && !increaseThrustPercentBool)
+        if (forceMult < 1000f && !increaseThrustPercentBool)
         {
             increaseThrustPercentBool = true;
         }
@@ -198,7 +217,7 @@ public class NewPlaneAI : MonoBehaviour
             transform.Rotate(0, Yaw, 0, Space.Self);
             transform.Rotate(0, 0, Roll, Space.Self);
         }
-        rigid.AddRelativeForce(Vector3.forward * (Thrust * 100), ForceMode.Force);
+        rigid.AddRelativeForce(Vector3.forward * (Thrust * forceMult), ForceMode.Force);
     }
 }
 /*

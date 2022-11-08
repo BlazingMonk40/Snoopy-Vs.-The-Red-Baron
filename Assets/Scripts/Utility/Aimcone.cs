@@ -7,7 +7,7 @@ public class Aimcone : MonoBehaviour
 {
     private void OnTriggerEnter(Collider other)
     {
-        if (other != this && other.name != "AimCone" && other != null)
+        if (other != this && (other.tag == "Enemy" || other.tag == "Player") && other != null)
             try
             {
                 Debug.Log(gameObject.transform.parent.name + " is looking at: " + other.gameObject.transform.parent.name + "'s " + other.gameObject.name);

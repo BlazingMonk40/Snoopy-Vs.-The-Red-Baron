@@ -8,15 +8,15 @@ public class GameManager : MonoBehaviour
 {
     [SerializeField] [Range (1f, 5f)] private float timescale = 1f;
     [Space]
-    [SerializeField] private PlaneAI2 plane;
-    [SerializeField] private GunScript gunScript;
+    [SerializeField] private NewPlaneAI plane;
     [SerializeField] private GameObject planeObj;
     [SerializeField] private GameObject aIPlanePrefab;
     [SerializeField] public int populationSize = 50;
     [SerializeField] private List<NeuralNetworkFeedForward> nets;
     [SerializeField] public int generationNumber = 0;
-    [SerializeField] private List<PlaneAI2> aIPlanesList;
+    [SerializeField] private List<NewPlaneAI> aIPlanesList;
     [SerializeField] private GameObject planeTarget;
+    [SerializeField] public float closestDistance;
     [Space]
     [Header("Text Stuff")]
     [SerializeField] private UnityEngine.UI.Text genText; 
@@ -33,9 +33,12 @@ public class GameManager : MonoBehaviour
     public bool goal;
     private List<NeuralNetworkFeedForward> netsForGenCard;
 
-    [SerializeField] private int[] layers = new int[] { 4, 256, 256, 256, 256, 256, 256, 256, 256, 256, 256, 2 }; 
+    [SerializeField] private int[] layers = new int[] { 11, 3, 3 }; 
     void Start()
     {
+        //Debug.LogError(layers.Length);
+        //for (int i = 0; i < layers.Length; i++)
+            //Debug.LogError("Layer " + i + ": " + layers[i].ToString());
         InitPlaneNeuralNetworks();
         planeXLocation = planeObj.transform.position.x;
         
@@ -49,13 +52,9 @@ public class GameManager : MonoBehaviour
         if (Time.timeScale != timescale)
             Time.timeScale = timescale;
 
-        if (Input.GetMouseButton(0))
-        {
-            gunScript.Fire(gameObject.name);
-        }
+        
         if (isTraning == false)
         {
-            
             if (generationNumber == 0)
             {
                 InitPlaneNeuralNetworks();
@@ -157,16 +156,16 @@ public class GameManager : MonoBehaviour
             for (int i = 0; i < aIPlanesList.Count; i++)
             {
                 if(aIPlanesList[i] != null)
-                    GameObject.Destroy(aIPlanesList[i].gameObject);
+                    Destroy(aIPlanesList[i].gameObject);
             }
 
         }
 
-        aIPlanesList = new List<PlaneAI2>();
+        aIPlanesList = new List<NewPlaneAI>();
         planeXLocation = 30f;
         for (int i = 0; i < populationSize; i++)
         {
-            PlaneAI2 plane = ((GameObject)Instantiate(aIPlanePrefab, new Vector3(planeXLocation, planeObj.transform.position.y, planeObj.transform.position.z), aIPlanePrefab.transform.rotation)).GetComponent<PlaneAI2>();
+            NewPlaneAI plane = ((GameObject)Instantiate(aIPlanePrefab, new Vector3(planeXLocation, planeObj.transform.position.y, planeObj.transform.position.z), aIPlanePrefab.transform.rotation)).GetComponent<NewPlaneAI>();
             planeXLocation += 30f;
             plane.Init(nets[i], planeTarget.transform);
             plane.name = $"Plane: {i + 1}";
@@ -201,9 +200,9 @@ public class GameManager : MonoBehaviour
         {
             if (name.Contains($"{i}"))
             {
-                aIPlanesList.Remove(gameObject.GetComponent<PlaneAI2>());
+                aIPlanesList.Remove(gameObject.GetComponent<NewPlaneAI>());
                 //aIPlanesList[i] = null;
-                nets.Remove(gameObject.GetComponent<PlaneAI2>().net);
+                nets.Remove(gameObject.GetComponent<NewPlaneAI>().net);
                 Destroy(gameObject);
             }
         }

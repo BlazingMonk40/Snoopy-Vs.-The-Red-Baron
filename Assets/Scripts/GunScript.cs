@@ -13,14 +13,22 @@ public class GunScript : MonoBehaviour
     {
         gameManager = GameObject.Find("GameManager").GetComponent<GameManager>();
     }
-    public void Fire(string name)
+    private void Update()
+    {
+
+        if (gameObject.transform.parent.tag == "Player" && Input.GetMouseButton(0))
+        {
+            Fire();
+        }
+    }
+    public void Fire()
     {
         gameManager.shotsFired += 1;
         if(Time.time > nextFireTime)
         {
             GameObject newBullet = Instantiate(bulletPrefab, transform.GetChild(gunCount % 2).position, transform.rotation);
             newBullet.GetComponent<Rigidbody>().velocity = transform.forward * 300;
-            newBullet.gameObject.name = name;
+            newBullet.gameObject.name = gameObject.transform.parent.name;
             nextFireTime = Time.time + fireRate;
             gunCount++;
             StartCoroutine(TurnOnCollider(newBullet.GetComponent<BoxCollider>()));

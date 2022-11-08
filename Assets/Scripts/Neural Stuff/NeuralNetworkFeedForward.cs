@@ -264,6 +264,11 @@ public class NeuralNetworkFeedForward : IComparable<NeuralNetworkFeedForward>
         else
             return 0;
     }
+
+    /// <summary>
+    /// This loads the biases and weights from within a file into the neural network.
+    /// </summary>
+    /// <param name="path"></param>
     public void Load(string path)//this loads the biases and weights from within a file into the neural network.
     {
         TextReader tr = new StreamReader(path);
